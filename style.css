@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'siwane';
-  src:  url('fonts/siwane.eot?iy3egm');
-  src:  url('fonts/siwane.eot?iy3egm#iefix') format('embedded-opentype'),
-    url('fonts/siwane.ttf?iy3egm') format('truetype'),
-    url('fonts/siwane.woff?iy3egm') format('woff'),
-    url('fonts/siwane.svg?iy3egm#siwane') format('svg');
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?iy3egm');
+  src:  url('fonts/icomoon.eot?iy3egm#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?iy3egm') format('truetype'),
+    url('fonts/icomoon.woff?iy3egm') format('woff'),
+    url('fonts/icomoon.svg?iy3egm#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'siwane' !important;
+  font-family: 'icomoon' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
